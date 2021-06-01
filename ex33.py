@@ -21,4 +21,4 @@ elif n3 > n1 and n3 > n2 and n2 > n1:
     print('O maior número é {} e o menor é {}'. format(n3, n1))
 else:
     print('O maior número é {} e o menor é {}'. format(n3, n2))
-    # guanabara utilizou variáveis menor e maior para guardar os valores.
+    # guanabara utilizou variáveis menor e maior para guardar os valores

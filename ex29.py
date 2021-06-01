@@ -6,6 +6,8 @@
 velc = float(input('Informe a velocidade do carro em KM/H: '))
 if velc >= 80:
     multa = (velc - 80) * 7
-    print('Você ultrapassou a velocidade e será multado em {:.2f} reais.'.format(multa))
+    print('Você ultrapassou a velocidade e será multado em {:.2f} reais.'
+          .format(multa))
 else:
-    ('Você está dentro da velocidade correta, obrigado por dirigir com segurança!')
+    print('Você está dentro da velocidade correta, obrigado por dirigir'
+          ' com segurança!')
