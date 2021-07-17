@@ -12,5 +12,5 @@ print('A temperatura é {:.0f} fahrenheit.'.format(f))
 p = float(input('Informe a quantidade de km percorrido: '))
 d = float(input('informe por quantos dias ficou com o carro: '))
 preco = (p * 0.15) + (d * 60)
-print(' O valor total a se pagar é R${:.2f} pelo uso do automóvel.'
+print(' O valor total a ser pago é de R${:.2f} pelo uso do automóvel.'
       .format(preco))
