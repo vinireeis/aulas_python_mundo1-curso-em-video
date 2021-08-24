@@ -1,4 +1,4 @@
-'''a = 15 % 7
+a = 15 % 7
 b = 10 % 2
 c = 87 % 13
 d = 127 % 35
@@ -13,7 +13,7 @@ for x in range(1, 4):
         valor = valor/2
     else:
         valor -= 5
-print(valor)'''
+print(valor)
 
 
 def fizzbuss(x):
